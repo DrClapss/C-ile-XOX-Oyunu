@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\bin\Debug\xox_oyunu.exe.config
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\bin\Debug\xox_oyunu.exe
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\bin\Debug\xox_oyunu.pdb
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\obj\Debug\xox_oyunu.csprojAssemblyReference.cache
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\obj\Debug\xox_oyunu.Form1.resources
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\obj\Debug\xox_oyunu.Properties.Resources.resources
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\obj\Debug\xox_oyunu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\obj\Debug\xox_oyunu.exe
+C:\Users\user\Desktop\YUSUF\yazılım\C#\formlar\xox_oyunu\xox_oyunu\obj\Debug\xox_oyunu.pdb
